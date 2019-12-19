@@ -18,7 +18,7 @@ Estoy cursando la carrera de Ingieneria en Software en la "Universidad De Guayaq
 
 Aqui una hermosa foto de mi lindo Guayaquil xd.
 
-![_config.yml]({{ site.baseurl }}/images/gu.png)
+![_config.yml]({{ site.baseurl }}/images/gu.jpg)
 
 
 
